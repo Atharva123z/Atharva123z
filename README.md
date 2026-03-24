@@ -108,7 +108,9 @@ Class XII — 76.4% | Class X — 83%
 <p align="center">
   <a href="https://linkedin.com/in/YOUR-LINK"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
   <a href="mailto:atharvapatil829@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
-  <a href="https://github.com/Atharva123z/Atharva_Nilesh_Patil_Resume.pdf"><img src="https://img.shields.io/badge/Resume-FF0000?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" /></a>
+  <a href="https://raw.githubusercontent.com/Atharva123z/Atharva123z/main/Atharva_Nilesh_Patil_Resume.pdf">
+    <img src="https://img.shields.io/badge/Download_Resume-FF0000?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" />
+  </a>
 </p>
 
 **Open to:** Hackathons • Internships • AI + Robotics + IoT collaborations
