@@ -4,7 +4,12 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Atharva123z&color=00F7FF&style=flat-square&label=Profile+Views)
 
-<h1 align="center">Atharva Nilesh Patil</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=700&lines=AI+%2B+Robotics+%2B+Web+Developer;IoT+Systems+Engineer;Hackathon+Warrior;I+Build+Things+That+Think%2C+Move+%26+Interact" />
+</p>
+
+<h1 align="center">Hey 👋, I'm Atharva Nilesh Patil</h1>
+<h3 align="center">🚀 B.Tech CSE @ D.Y. Patil International University | AI + Robotics + IoT + Web Developer</h3>
 
 ---
 
