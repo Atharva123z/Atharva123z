@@ -1,29 +1,29 @@
 <p align="center">
-  <img src="https://github.com/Atharva123z/Atharva123z/blob/main/banner.png?raw=true" alt="Atharva Patil Banner" width="100%" />
+  <img src="https://github.com/Atharva123z/Atharva123z/blob/main/banner.png?raw=true" alt="Atharva Nilesh Patil Banner" width="100%" />
 </p>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Atharva123z&color=00F7FF&style=flat-square&label=Profile+Views)
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=700&lines=AI+%2B+Robotics+Builder;IoT+Systems+Engineer;Hackathon+Warrior;I+Build+Things+That+Move+%26+Think" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=700&lines=AI+%2B+Robotics+Builder;IoT+Systems+Engineer;Hackathon+Warrior;I+Build+Things+That+Think%2C+Move+%26+Interact" />
 </p>
 
-<h1 align="center">Hey 👋, I'm Atharva Patil</h1>
-<h3 align="center">🚀 Builder of AI + Robotics + IoT systems that actually do something in the real world</h3>
+<h1 align="center">Hey 👋, I'm Atharva Nilesh Patil</h1>
+<h3 align="center">🚀 B.Tech CSE @ D.Y. Patil International University | AI + Robotics + IoT Builder</h3>
 
 ---
 
 ## 🧠 About Me
-- 🔭 **Currently building** real-world AI + Robotics + IoT projects that bridge digital and physical worlds
-- 🤖 Specializing in **drones, rovers, smart automation & AI agents**
-- ⚡ Turning ideas into systems that **think, move, sense, and interact**
-- 🏆 Active hackathon builder & practical innovator
+- 🔭 **Currently building** real-world AI + Robotics + IoT systems that bridge digital and physical worlds  
+- 🤖 Second-year CSE student with **8.26 CGPA** and a passion for hardware-software integration  
+- ⚡ Turning ideas into systems that **think, move, sense, and interact**  
+- 🏆 Active in hackathons, research, and community-driven tech initiatives
 
 ---
 
 ## ⚙️ Tech Arsenal
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,js,html,css,arduino,raspberrypi,esp32,firebase,react,nodejs,mysql" />
+  <img src="https://skillicons.dev/icons?i=python,java,c,cpp,js,html,css,sql,arduino,raspberrypi,esp32,firebase,mysql,mongodb,react,nodejs" />
 </p>
 
 ---
@@ -31,18 +31,18 @@
 ## 🔥 Featured Projects
 
 ### 🤖 AI + Robotics + IoT
-- **[🚗 Internet Controlled Car](https://github.com/Atharva123z/internet-controlled-car)**  
-  ESP32-powered RC car controlled over the internet using WebSocket + Firebase — full hardware + software integration
+- **[🚗 Internet Controlled RC Car](https://github.com/Atharva123z/internet-controlled-car)**  
+  Wi-Fi enabled RC car controlled through a web interface using ESP8266, Arduino, Firebase & HTML/CSS/JS. Real-time communication between dashboard and hardware.
+- **[📊 IoT Device Monitoring Dashboard](https://github.com/Atharva123z/IOT-Dashboard)**  
+  Real-time sensor monitoring system with ESP32, ultrasonic, pulse & humidity sensors feeding live data to Firebase dashboard.
 - **[🧠 Sampark — Mental Health Platform](https://github.com/Atharva123z/Sampark-Mental-Health-Platform)**  
-  Real-time digital mental wellness platform with Firebase backend — connecting users with emotional support tools
-- **[📊 IoT Dashboard](https://github.com/Atharva123z/IOT-Dashboard)**  
-  Live sensor data from ESP devices → Firebase → beautiful responsive web dashboard
+  Accessible mental health support platform with real-time data handling using HTML, CSS, JavaScript & Firebase.
 
 ### 🌐 Web + Systems
-- **[🎉 Event Management System](https://github.com/Atharva123z/Event-Management)**  
-  Full-featured responsive event platform with real-time updates and user management
-- **[💼 Portfolio v2](https://github.com/Atharva123z/Portfolio)**  
-  My personal showcase — currently upgrading with 3D elements and futuristic design
+- **[🎉 Event Management Website](https://github.com/Atharva123z/Event-Management)**  
+  Full-featured web app with user authentication, event room creation, participation & real-time Firebase backend.
+- **[💼 Portfolio](https://github.com/Atharva123z/Portfolio)**  
+  Personal showcase (currently upgrading to 3D + futuristic design)
 
 ---
 
@@ -52,12 +52,10 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Atharva123z&theme=tokyonight&hide_border=true" />
 </p>
 
-## 🔥 Top Languages
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Atharva123z&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
-## 🏆 GitHub Trophies
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Atharva123z&theme=tokyonight&row=1&column=6" />
 </p>
@@ -71,9 +69,33 @@
 
 ---
 
+## 🎓 Education
+**B.Tech Computer Science Engineering** — D.Y. Patil International University, Pune  
+Second Year (Semester 4) | CGPA (First Year): **8.26**  
+Class XII — 76.4% | Class X — 83%
+
+---
+
+## 🔬 Research Experience
+- **Data Mining Research (Ongoing)**  
+  Working on data preprocessing and pattern extraction techniques for structured datasets.
+- **VTOL Aircraft Project (Ongoing)**  
+  Collaborating on the development of a Vertical Take-Off and Landing aircraft system.
+
+---
+
 ## 🚀 Currently Building
-- AI-powered Smart Agriculture System (Drone + Rover + Computer Vision)
-- Next-gen AI Talking Bot on Raspberry Pi with real-time voice interaction
+- AI-powered **Smart Agriculture System** (Drone + Rover + Computer Vision)
+- Next-gen **AI Talking Bot** on Raspberry Pi with real-time voice interaction
+- VTOL Aircraft system & advanced Data Mining models
+
+---
+
+## 👥 Leadership & Community
+- **Club Secretary — Yantrix Technical Club**  
+  Coordinated technical events and managed student engagement initiatives.
+- **Rural Internship — Sanjivani NGO**  
+  Conducted workshops promoting awareness and practical use of Artificial Intelligence.
 
 ---
 
@@ -82,14 +104,15 @@
 
 ---
 
-## 🌍 Let's Connect & Collaborate
+## 🌍 Connect & Collaborate
 <p align="center">
   <a href="https://linkedin.com/in/YOUR-LINK"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
-  <a href="mailto:your.email@example.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
+  <a href="mailto:atharvapatil829@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
+  <a href="https://github.com/Atharva123z/Atharva_Nilesh_Patil_Resume.pdf"><img src="https://img.shields.io/badge/Resume-FF0000?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" /></a>
 </p>
 
-**Open to:** Hackathons • Internships • Collaborations • AI + Robotics projects
+**Open to:** Hackathons • Internships • AI + Robotics + IoT collaborations
 
 ---
 
-**Made with 🔥 by Atharva Patil • Pune, Maharashtra**
+**Made with 🔥 by Atharva Nilesh Patil • Pune, India**
