@@ -5,16 +5,16 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=Atharva123z&color=00F7FF&style=flat-square&label=Profile+Views)
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=700&lines=AI+%2B+Robotics+Builder;IoT+Systems+Engineer;Hackathon+Warrior;I+Build+Things+That+Think%2C+Move+%26+Interact" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=700&lines=AI+%2B+Robotics+%2B+Web+Developer;IoT+Systems+Engineer;Hackathon+Warrior;I+Build+Things+That+Think%2C+Move+%26+Interact" />
 </p>
 
 <h1 align="center">Hey 👋, I'm Atharva Nilesh Patil</h1>
-<h3 align="center">🚀 B.Tech CSE @ D.Y. Patil International University | AI + Robotics + IoT Builder</h3>
+<h3 align="center">🚀 B.Tech CSE @ D.Y. Patil International University | AI + Robotics + IoT + Web Developer</h3>
 
 ---
 
 ## 🧠 About Me
-- 🔭 **Currently building** real-world AI + Robotics + IoT systems that bridge digital and physical worlds  
+- 🔭 **Currently building** real-world AI + Robotics + IoT systems **and modern web applications** that bridge digital and physical worlds  
 - 🤖 Second-year CSE student with **8.26 CGPA** and a passion for hardware-software integration  
 - ⚡ Turning ideas into systems that **think, move, sense, and interact**  
 - 🏆 Active in hackathons, research, and community-driven tech initiatives
@@ -22,8 +22,13 @@
 ---
 
 ## ⚙️ Tech Arsenal
+
+**Web Developer** | **AI + IoT Builder**
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,c,cpp,js,html,css,sql,arduino,raspberrypi,esp32,firebase,mysql,mongodb,react,nodejs" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,firebase,mysql,mongodb" />
+  <br>
+  <img src="https://skillicons.dev/icons?i=python,java,c,cpp,sql,arduino,raspberrypi,esp32" />
 </p>
 
 ---
@@ -113,7 +118,7 @@ Class XII — 76.4% | Class X — 83%
   </a>
 </p>
 
-**Open to:** Hackathons • Internships • AI + Robotics + IoT collaborations
+**Open to:** Hackathons • Internships • AI + Robotics + Web Development collaborations
 
 ---
 
