@@ -22,14 +22,14 @@
 ---
 
 ## ⚙️ Tech Arsenal
-
-**Web Developer** | **AI + IoT Builder**
-
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,firebase,mysql,mongodb" />
-  <br>
-  <img src="https://skillicons.dev/icons?i=python,java,c,cpp,sql,arduino,raspberrypi,esp32" />
+  <img src="https://skillicons.dev/icons?i=python,java,c,cpp,html,css,js,react,nodejs,sql,firebase,mysql,mongodb,arduino,raspberrypi,esp32" />
 </p>
+
+**Languages:** Python, C, Java, C++, SQL  
+**Web Development:** HTML, CSS, JavaScript, React, Node.js  
+**Databases:** MySQL, Firebase, MongoDB  
+**Embedded / IoT:** Arduino, ESP32, Raspberry Pi
 
 ---
 
