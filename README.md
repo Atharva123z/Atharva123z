@@ -1,23 +1,25 @@
-<p align="center">
-  <img src="https://github.com/Atharva123z/Atharva123z/blob/main/banner.gif?raw=true" alt="Atharva Nilesh Patil Banner" width="100%" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Atharva123z&color=00F7FF&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
-</p>
+<img src="https://github.com/Atharva123z/Atharva123z/blob/main/banner.gif?raw=true" alt="Atharva Nilesh Patil Banner" width="100%" /><img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a14,50:181825,100:0a0a14&height=120&section=header" width="100%" />
 
-<p align="center">
+<a href="https://github.com/Atharva123z">
   <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=700&lines=AI+%2B+Robotics+%2B+Web+Developer;IoT+Systems+Engineer;Hackathon+Warrior;I+Build+Things+That+Think%2C+Move+%26+Interact" />
-</p>
+</a>
 
-<h1 align="center">Hey 👋, I'm Atharva Nilesh Patil</h1>
+<h1>Hey 👋, I'm Atharva Nilesh Patil</h1>
 <h3 align="center">🚀 B.Tech CSE @ D.Y. Patil International University | AI + Robotics + IoT + Web Developer</h3>
 
-<p align="center">
-  <a href="https://linkedin.com/in/YOUR-LINK"><img src="https://img.shields.io/badge/LinkedIn-00F7FF?style=for-the-badge&logo=linkedin&logoColor=0a0a14" alt="LinkedIn" /></a>
-  <a href="mailto:atharvapatil829@gmail.com"><img src="https://img.shields.io/badge/Email-00F7FF?style=for-the-badge&logo=gmail&logoColor=0a0a14" alt="Email" /></a>
-  <a href="https://raw.githubusercontent.com/Atharva123z/Atharva123z/main/Atharva_Nilesh_Patil_Resume.pdf"><img src="https://img.shields.io/badge/Download_Resume-00F7FF?style=for-the-badge&logo=adobeacrobatreader&logoColor=0a0a14" alt="Resume" /></a>
-</p>
+<a href="https://linkedin.com/in/YOUR-LINK"><img src="https://img.shields.io/badge/LinkedIn-00F7FF?style=for-the-badge&logo=linkedin&logoColor=0a0a14" alt="LinkedIn" /></a>
+<a href="mailto:atharvapatil829@gmail.com"><img src="https://img.shields.io/badge/Email-00F7FF?style=for-the-badge&logo=gmail&logoColor=0a0a14" alt="Email" /></a>
+<a href="https://raw.githubusercontent.com/Atharva123z/Atharva123z/main/Atharva_Nilesh_Patil_Resume.pdf"><img src="https://img.shields.io/badge/Download_Resume-00F7FF?style=for-the-badge&logo=adobeacrobatreader&logoColor=0a0a14" alt="Resume" /></a>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a14,50:7c83fd,100:00F7FF&height=120&section=footer&reversal=true" width="100%" />
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=Atharva123z&color=00bfff&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
+
+</div>
 
 <br>
 
@@ -87,12 +89,12 @@
 ## 📊 GitHub Stats & Streaks
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Atharva123z&show_icons=true&bg_color=0a0a14&title_color=00F7FF&text_color=e0f7ff&icon_color=7c83fd&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Atharva123z&background=0a0a14&stroke=00000000&ring=00F7FF&fire=00F7FF&currStreakLabel=00F7FF&currStreakNum=e0f7ff&sideNums=e0f7ff&sideLabels=e0f7ff&dates=7c83fd&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Atharva123z&show_icons=true&bg_color=0a0a14&title_color=00BFFF&text_color=8b9bd4&icon_color=4f5b93&hide_border=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Atharva123z&background=0a0a14&stroke=00000000&ring=00BFFF&fire=00BFFF&currStreakLabel=00BFFF&currStreakNum=8b9bd4&sideNums=8b9bd4&sideLabels=8b9bd4&dates=4f5b93&hide_border=true" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Atharva123z&layout=compact&bg_color=0a0a14&title_color=00F7FF&text_color=e0f7ff&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Atharva123z&layout=compact&bg_color=0a0a14&title_color=00BFFF&text_color=8b9bd4&hide_border=true" width="48%" />
   <img src="https://github-profile-trophy.vercel.app/?username=Atharva123z&theme=discord&row=1&column=6&no-bg=true&no-frame=true" width="48%" />
 </p>
 
@@ -100,7 +102,7 @@
 
 ## 🌌 Contribution Graph
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Atharva123z&bg_color=0a0a14&color=00e5b0&line=00F7FF&point=e0f7ff&hide_border=true" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Atharva123z&bg_color=0a0a14&color=00BFFF&line=4f5b93&point=8b9bd4&hide_border=true" width="100%" />
 </p>
 
 ---
@@ -123,4 +125,8 @@
 
 <p align="center">
   <i>Made with 🔥 by Atharva Nilesh Patil • Pune, India</i>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00BFFF,50:4f5b93,100:0a0a14&height=120&section=footer" width="100%" />
 </p>
