@@ -9,7 +9,7 @@
 <h1>Hey 👋, I'm Atharva Nilesh Patil</h1>
 <h3 align="center">🚀 B.Tech CSE @ D.Y. Patil International University | AI + Robotics + IoT + Web Developer</h3>
 
-<a href="https://linkedin.com/in/YOUR-LINK"><img src="https://img.shields.io/badge/LinkedIn-00F7FF?style=for-the-badge&logo=linkedin&logoColor=0a0a14" alt="LinkedIn" /></a>
+<a href="www.linkedin.com/in/atharva-patil-4139b1324"><img src="https://img.shields.io/badge/LinkedIn-00F7FF?style=for-the-badge&logo=linkedin&logoColor=0a0a14" alt="LinkedIn" /></a>
 <a href="mailto:atharvapatil829@gmail.com"><img src="https://img.shields.io/badge/Email-00F7FF?style=for-the-badge&logo=gmail&logoColor=0a0a14" alt="Email" /></a>
 <a href="https://raw.githubusercontent.com/Atharva123z/Atharva123z/main/Atharva_Nilesh_Patil_Resume.pdf"><img src="https://img.shields.io/badge/Download_Resume-00F7FF?style=for-the-badge&logo=adobeacrobatreader&logoColor=0a0a14" alt="Resume" /></a>
 
